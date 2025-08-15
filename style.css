@@ -8,4 +8,15 @@
       </head>
       <body>
        <header> Play List</header>
-       <section class=
+       <section class="chamada">
+             <div class="chamada-texto">
+
+               <h1> Play List</h1>
+               <p>#Genero Musical</p>
+               </div>
+               <div class="chamada-vidio">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/uvHzle4Qze8?si=QYS6wfspNwPsdurI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+               </section>
+               </boly>
+               </html>
